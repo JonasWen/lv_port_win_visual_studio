@@ -470,8 +470,6 @@
     <ClCompile Include="lvgl\src\draw\nxp\vglite\lv_draw_vglite_arc.c" />
     <ClCompile Include="lvgl\src\draw\nxp\vglite\lv_draw_vglite_blend.c" />
     <ClCompile Include="lvgl\src\draw\nxp\vglite\lv_draw_vglite_rect.c" />
-    <ClCompile Include="lvgl\src\draw\nxp\vglite\lv_gpu_nxp_vglite.c" />
-    <ClCompile Include="lvgl\src\draw\nxp\lv_gpu_nxp.c" />
     <ClCompile Include="lvgl\src\draw\sdl\lv_draw_sdl.c" />
     <ClCompile Include="lvgl\src\draw\sdl\lv_draw_sdl_arc.c" />
     <ClCompile Include="lvgl\src\draw\sdl\lv_draw_sdl_bg.c" />

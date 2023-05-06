@@ -741,9 +741,6 @@
     <ClInclude Include="lvgl\src\draw\nxp\vglite\lv_gpu_nxp_vglite.h">
       <Filter>lvgl\src\draw\nxp\vglite</Filter>
     </ClInclude>
-    <ClInclude Include="lvgl\src\draw\nxp\lv_gpu_nxp.h">
-      <Filter>lvgl\src\draw\nxp</Filter>
-    </ClInclude>
     <ClInclude Include="lvgl\src\draw\sdl\lv_draw_sdl.h">
       <Filter>lvgl\src\draw\sdl</Filter>
     </ClInclude>
@@ -1942,12 +1939,6 @@
     </ClCompile>
     <ClCompile Include="lvgl\src\draw\nxp\vglite\lv_draw_vglite_rect.c">
       <Filter>lvgl\src\draw\nxp\vglite</Filter>
-    </ClCompile>
-    <ClCompile Include="lvgl\src\draw\nxp\vglite\lv_gpu_nxp_vglite.c">
-      <Filter>lvgl\src\draw\nxp\vglite</Filter>
-    </ClCompile>
-    <ClCompile Include="lvgl\src\draw\nxp\lv_gpu_nxp.c">
-      <Filter>lvgl\src\draw\nxp</Filter>
     </ClCompile>
     <ClCompile Include="lvgl\src\draw\sdl\lv_draw_sdl.c">
       <Filter>lvgl\src\draw\sdl</Filter>
